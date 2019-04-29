@@ -1,0 +1,8 @@
+[ignore]
+.*/www/.*
+.*/node_modules/@webassemblyjs/.*
+[include]
+[libs]
+./flow-typed
+[options]
+[lints]

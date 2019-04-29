@@ -1,0 +1,17 @@
+{
+  "name": "thanos_dust",
+  "version": "1.0.0",
+  "description": "The Thanos snap effect, making items to dust, just like google style.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LichKing24",
+  "license": "MIT License",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "html2canvas": "^1.0.0-rc.1"
+  }
+}
