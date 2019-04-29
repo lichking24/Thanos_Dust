@@ -5,10 +5,10 @@
    */
 
   let IDS = []
-  let MEMBERS = [1, 2, 3, 4]
+  let MEMBERS = [1, 2, 3, 4, 5, 6, 7, 8]
 
   let REPEAT = 2;
-  let SPARES = 48;
+  let SPARES = 32;
 
   /**
    * Declare Doms
