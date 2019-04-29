@@ -5,7 +5,7 @@
 As Thanos making a snap with the Infinite Gauntlet, half the heros vanish to dust. As using the time stone, people come back.
 
 
-![](../public/img/demo.gif)
+![](public/img/demo.gif)
 
 ## Details
 
